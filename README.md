@@ -1,2 +1,0 @@
-# hyundainixon
-For Competition
